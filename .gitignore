@@ -8,7 +8,7 @@ venv/
 *.exe
 .target/
 target/
-
+test/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
